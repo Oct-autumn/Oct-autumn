@@ -1,4 +1,10 @@
-## Hi there 👋
+## Stay hungry, stay foolish
+
+Hello~ I'm OctAutumn. You can just call me `Oct` . I mainly forcused on the technologies related to backend. But I'm also interested in AI and front-end.
+
+You can contact me by e-mail: octautumn2002@gmail.com
+
+My GnuPG PubKey FPR: 852F565FD21DFCCEE6C85AAB144AC8A0705A5236
 
 <!--
 **Oct-autumn/Oct-autumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
