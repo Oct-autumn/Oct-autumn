@@ -1,6 +1,6 @@
 ## Stay hungry, stay foolish
 
-Hello~ I'm OctAutumn. You can just call me `Oct` . I mainly forcused on the technologies related to backend. But I'm also interested in AI and front-end.
+Hello~ I'm OctAutumn. You can just call me `Oct` . I mainly forcused on the technologies related to backend. But I'm also interested in AI/front-end/OS Kernel/Embedded.
 
 You can contact me by e-mail: octautumn2002@gmail.com
 
