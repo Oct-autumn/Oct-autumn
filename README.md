@@ -1,10 +1,14 @@
 ## Stay hungry, stay foolish
 
-Hello~ I'm OctAutumn. You can just call me `Oct` . I mainly forcused on the technologies related to backend. But I'm also interested in AI/front-end/OS Kernel/Embedded.
+Hello~ I'm OctAutumn. You can just call me `Oct` . I mainly focus on the technologies related to backend. But at the same time, I am also interested in front-end, AI, os kernel and embedded.
 
 You can contact me by e-mail: octautumn2002@gmail.com
 
 My GnuPG PubKey FPR: 852F565FD21DFCCEE6C85AAB144AC8A0705A5236
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oct-autumn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Oct-autumn/Oct-autumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
